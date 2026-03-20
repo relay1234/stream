@@ -1,8 +1,7 @@
 # ======================================================
-# SECURE MPV STREAM PLAYER
-# Cross-platform (Windows + Termux Android)
+# Soporta SO (Windows + Android)
 # Windows -> mpv
-# Termux -> Android Player (com.example.hlplayer)
+# Android -> Android Player (com.example.hlplayer)
 # ======================================================
 
 import subprocess
@@ -79,7 +78,7 @@ def wait_key():
 CATALOG_FILE = "catalog.enc"
 KEY_FILE = "key.key"
 
-AUTHOR = "TuNombre"
+AUTHOR = "GUSTAVO AGUILAR"
 VERSION = "1.0"
 
 index = 0
@@ -143,7 +142,7 @@ def splash():
     print(f"\nBienvenido {username} 🚀\n")
     print("Inicializando entorno seguro...")
 
-    time.sleep(1)
+    time.sleep(2)
 
 
 # ============================
