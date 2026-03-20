@@ -1,8 +1,7 @@
 # ======================================================
 # SECURE MPV STREAM PLAYER
-# Netflix-style terminal interface + encrypted catalog
+# terminal interface + encrypted catalog
 # Categories + Search + Dead stream detection
-# Hacker welcome screen with username
 # ======================================================
 
 import subprocess
