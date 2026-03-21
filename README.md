@@ -37,20 +37,20 @@ https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
 1. Instala el APK **HLS Player**  
 2. Abre Termux  
-3. Ejecuta el siguiente comando para clonar el repositorio <mark>git clone https://github.com/relay1234/stream.git</mark>  
-4. Actualiza los paquetes con <mark>pkg update && pkg upgrade</mark>  
-5. Instala dependencias con <mark>pkg install rust binutils python-cryptography libffi openssl</mark>  
-6. Instala requests con <mark>pip install requests</mark> o <mark>pkg install python-requests</mark>  
-7. (Opcional) Da permisos con <mark>termux-setup-storage</mark>  
-8. Entra a la carpeta con <mark>cd stream</mark> y lista con <mark>ls</mark>  
-9. Ejecuta el script con <mark>python multiSO.py</mark>  
+3. Ejecuta el siguiente comando para clonar el repositorio ```git clone https://github.com/relay1234/stream.git```  
+4. Actualiza los paquetes con ```pkg update && pkg upgrade``` 
+5. Instala dependencias con ```pkg install rust binutils python-cryptography libffi openssl``` 
+6. Instala requests con ```pip install requests</mark> o <mark>pkg install python-requests``` 
+7. (Opcional) Da permisos con ```termux-setup-storage```
+8. Entra a la carpeta con ```cd stream``` y lista con ```ls```  
+9. Ejecuta el script con ```python multiSO.py```
 10. Listo, selecciona el stream que más te guste  
 
 ---
 
 ## ✅ Resultado
 
--<mark>Reproducción del stream directamente en HLS Player</mark> **EN ANDROID**
+- <mark>Reproducción del stream directamente en HLS Player</mark> **EN ANDROID**
 
--<mark>Reproducción del stream directamente en MVP Player</mark> **EN WINDOWS**
+* <mark>Reproducción del stream directamente en MVP Player</mark> **EN WINDOWS**
 
