@@ -36,7 +36,7 @@ Herramienta sencilla para reproducir streams, canales de tv desde distintos ento
 
 1. Instala el APK **HLS Player**
 2. Abre Termux
-3. Ejecuta el siguiente comando para clonar el repositorio ==git clone https://github.com/relay1234/stream.git==
+3. Ejecuta el siguiente comando para clonar el repositorio <mark>git clone https://github.com/relay1234/stream.git</mark>
 4. Actualizamos los paquetes y repositorios de termux con el comando pkg update \&\& pkg upgrade
 5. Ejecutamos este comando para usar librerias y herramientas que vamos a necesitar pkg install rust binutils python-cryptography libffi openssl
 6. instalamos requests con pip install requests   O   pkg install pyhon-requests
