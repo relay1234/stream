@@ -9,6 +9,23 @@ Herramienta sencilla para reproducir streams, canales de TV desde distintos ento
 
 ---
 
+
+## 🛠️ Tecnologías
+
+[![Autor](https://img.shields.io/badge/Autor-TAVO⠀AGUILAR-181717?style=for-the-badge&logo=github)](https://github.com/relay1234)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
+
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Windows-lightgrey?style=for-the-badge)
+
+
+---
+
+
+
+
 ## ⚙️ Requisitos
 
 ### 📱 Android (Termux + HLS Player)
