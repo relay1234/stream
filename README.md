@@ -35,16 +35,41 @@ https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
 ### ▶️ En Android (Termux + HLS Player)
 
-1. Instala el APK **HLS Player**  
-2. Abre Termux  
-3. Ejecuta el siguiente comando para clonar el repositorio ```git clone https://github.com/relay1234/stream.git```  
-4. Actualiza los paquetes con ```pkg update && pkg upgrade``` 
-5. Instala dependencias con ```pkg install rust binutils python-cryptography libffi openssl``` 
-6. Instala requests con ```pip install requests</mark> o <mark>pkg install python-requests``` 
-7. (Opcional) Da permisos con ```termux-setup-storage```
-8. Entra a la carpeta con ```cd stream``` y lista con ```ls```  
-9. Ejecuta el script con ```python multiSO.py```
-10. Listo, selecciona el stream que más te guste  
+
+🔹 Instala el APK **HLS Player**  
+
+🔹 Abre Termux  
+
+🔹 Ejecuta el siguiente comando para clonar el repositorio ```git clone https://github.com/relay1234/stream.git``` 
+
+🔹 Actualiza los paquetes con ```pkg update && pkg upgrade``` 
+
+🔹 Instala dependencias con ```pkg install rust binutils python-cryptography libffi openssl``` 
+
+🔹 Instala requests con ```pip install requests</mark> o <mark>pkg install python-requests``` 
+
+🔹 (Opcional) Da permisos con ```termux-setup-storage```
+
+🔹 Entra a la carpeta con ```cd stream``` y lista con ```ls```  
+
+🔹 Ejecuta el script con ```python multiSO.py```
+
+🔹 Listo, selecciona el stream que más te guste
+
+### ▶️ En Windows (cmd + MPV)
+🔹 Descarga e instala python
+
+🔹 Decarga e instala el MPV
+
+🔹 Instala las librerias requests y cryptography con ```pip install requests cryptography```
+
+🔹 Ejecuta el siguiente comando para clonar el repositorio ```git clone https://github.com/relay1234/stream.git```
+
+🔹 Ejecutas el proyecto ya sea con el comando ```python multiSO.py``` y escoges <mark>Windows</mark> o bien puedes ejecutar ```python app.py``` 
+
+> ⚠️ NOTA: Crea una carpeta especifica donde alojaras el proyecto. Si lo quieres guardar en una carpeta dentro del escritorio tipea: cd desktop y presionas enter luego escribes mkdir "proyecto" en donde proyecto equivale al nombre que le quieras dar a la carpeta, despues de crear la carpeta te dirijes a ella con cd proyectos, por ultimo clona el repositorio dentro de esta carpeta y listo.
+
+> ⚠️ NOTA: Para facilitar el uso de MPV, mueve el archivo ZIP descargado al disco C:\. Luego descomprímelo y agrega la carpeta de MPV al PATH del sistema.
 
 ---
 
