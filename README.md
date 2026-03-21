@@ -50,6 +50,7 @@ https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
 ## ✅ Resultado
 
-<mark>Reproducción del stream directamente en HLS Player</mark> **EN ANDROID**
-<mark>Reproducción del stream directamente en MVP Player</mark> **EN WINDOWS**
+-<mark>Reproducción del stream directamente en HLS Player</mark> **EN ANDROID**
+
+-<mark>Reproducción del stream directamente en MVP Player</mark> **EN WINDOWS**
 
