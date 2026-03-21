@@ -19,7 +19,6 @@ https://www.mediafire.com/file/pu2amjkrli6r2eh/HLS_PLAYER.apk/file
 - Aplicación **Termux**  
 https://play.google.com/store/apps/details?id=com.termux
 
----
 
 ### 💻 Windows (CMD + MPV)
 
@@ -51,4 +50,6 @@ https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
 ## ✅ Resultado
 
-<mark>Reproducción del stream directamente en HLS Player</mark>
+<mark>Reproducción del stream directamente en HLS Player</mark> **EN ANDROID**
+<mark>Reproducción del stream directamente en MVP Player</mark> **EN WINDOWS**
+
